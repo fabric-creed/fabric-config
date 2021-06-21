@@ -10,8 +10,8 @@ import (
 	"fmt"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/fabric-creed/fabric-protos-go/ledger/rwset"
+	"github.com/fabric-creed/fabric-protos-go/peer"
 )
 
 type ChaincodeProposalPayload struct {

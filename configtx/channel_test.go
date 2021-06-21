@@ -10,9 +10,9 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/hyperledger/fabric-config/protolator"
-	"github.com/hyperledger/fabric-config/protolator/protoext/commonext"
-	cb "github.com/hyperledger/fabric-protos-go/common"
+	"github.com/fabric-creed/fabric-config/protolator"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/commonext"
+	cb "github.com/fabric-creed/fabric-protos-go/common"
 	. "github.com/onsi/gomega"
 )
 

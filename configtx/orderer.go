@@ -16,10 +16,10 @@ import (
 	"time"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-config/configtx/orderer"
-	cb "github.com/hyperledger/fabric-protos-go/common"
-	ob "github.com/hyperledger/fabric-protos-go/orderer"
-	eb "github.com/hyperledger/fabric-protos-go/orderer/etcdraft"
+	"github.com/fabric-creed/fabric-config/configtx/orderer"
+	cb "github.com/fabric-creed/fabric-protos-go/common"
+	ob "github.com/fabric-creed/fabric-protos-go/orderer"
+	eb "github.com/fabric-creed/fabric-protos-go/orderer/etcdraft"
 )
 
 const (

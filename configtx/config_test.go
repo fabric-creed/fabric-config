@@ -14,8 +14,8 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-config/protolator"
-	cb "github.com/hyperledger/fabric-protos-go/common"
+	"github.com/fabric-creed/fabric-config/protolator"
+	cb "github.com/fabric-creed/fabric-protos-go/common"
 	. "github.com/onsi/gomega"
 )
 

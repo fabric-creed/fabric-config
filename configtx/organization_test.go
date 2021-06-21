@@ -11,8 +11,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/hyperledger/fabric-config/protolator"
-	"github.com/hyperledger/fabric-config/protolator/protoext/ordererext"
+	"github.com/fabric-creed/fabric-config/protolator"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/ordererext"
 	. "github.com/onsi/gomega"
 )
 

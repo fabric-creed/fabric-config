@@ -10,7 +10,7 @@ import (
 	"errors"
 	"fmt"
 
-	cb "github.com/hyperledger/fabric-protos-go/common"
+	cb "github.com/fabric-creed/fabric-protos-go/common"
 )
 
 // ChannelGroup encapsulates the parts of the config that control channels.

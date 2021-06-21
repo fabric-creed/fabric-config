@@ -10,9 +10,9 @@ import (
 	"fmt"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/fabric-creed/fabric-protos-go/common"
+	"github.com/fabric-creed/fabric-protos-go/msp"
+	"github.com/fabric-creed/fabric-protos-go/peer"
 )
 
 type DynamicApplicationGroup struct {

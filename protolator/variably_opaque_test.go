@@ -11,7 +11,7 @@ import (
 	"testing"
 
 	"github.com/golang/protobuf/proto"
-	"github.com/hyperledger/fabric-config/protolator/testprotos"
+	"github.com/fabric-creed/fabric-config/protolator/testprotos"
 
 	. "github.com/onsi/gomega"
 )

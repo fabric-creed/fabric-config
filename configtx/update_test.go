@@ -9,7 +9,7 @@ package configtx
 import (
 	"testing"
 
-	cb "github.com/hyperledger/fabric-protos-go/common"
+	cb "github.com/fabric-creed/fabric-protos-go/common"
 	. "github.com/onsi/gomega"
 )
 

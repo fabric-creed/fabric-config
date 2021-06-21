@@ -11,16 +11,16 @@ import (
 
 	"github.com/golang/protobuf/proto"
 
-	"github.com/hyperledger/fabric-config/protolator/protoext/commonext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/ledger/rwsetext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/mspext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/ordererext"
-	"github.com/hyperledger/fabric-config/protolator/protoext/peerext"
-	"github.com/hyperledger/fabric-protos-go/common"
-	"github.com/hyperledger/fabric-protos-go/ledger/rwset"
-	"github.com/hyperledger/fabric-protos-go/msp"
-	"github.com/hyperledger/fabric-protos-go/orderer"
-	"github.com/hyperledger/fabric-protos-go/peer"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/commonext"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/ledger/rwsetext"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/mspext"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/ordererext"
+	"github.com/fabric-creed/fabric-config/protolator/protoext/peerext"
+	"github.com/fabric-creed/fabric-protos-go/common"
+	"github.com/fabric-creed/fabric-protos-go/ledger/rwset"
+	"github.com/fabric-creed/fabric-protos-go/msp"
+	"github.com/fabric-creed/fabric-protos-go/orderer"
+	"github.com/fabric-creed/fabric-protos-go/peer"
 
 	. "github.com/onsi/gomega"
 )

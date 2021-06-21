@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/hyperledger/fabric-config/protolator/testprotos"
+	"github.com/fabric-creed/fabric-config/protolator/testprotos"
 
 	. "github.com/onsi/gomega"
 )
